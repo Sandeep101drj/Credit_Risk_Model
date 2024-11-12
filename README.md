@@ -28,7 +28,7 @@ In the lending industry, determining the likelihood of a borrower defaulting on 
 ## Objective
 
 The objective of this project is to build a predictive model that:
-1. Assesses the credit risk of individual borrowers based on various features.
+1. Assess the credit risk of individual borrowers based on various features.
 2. Provide an app with easy-to-use interface for users to input borrower data and receive predictions.
 3. Allow batch processing of credit risk predictions for multiple records via CSV upload.
 
